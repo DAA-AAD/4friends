@@ -14,4 +14,4 @@ Souls
     -Cyan:when moving everything moves slower when not moving everything is really fast, oh and inverted controls
 
 Rage quitting instructions
-    -Hit Windows key to exit game then close the window
+    -Hit Escape Key to exit game then close the window
