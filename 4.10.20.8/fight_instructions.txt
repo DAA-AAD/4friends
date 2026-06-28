@@ -8,7 +8,7 @@ OBJ
 Souls
     -Red:just move around no gimmick
     -Blue:platformer physics + floaty jumps
-    -Yellow:gun(for player1 press 'c', for player2 press 'Slash')
+    -Yellow:gun(for player1 press 'c', for player2 press 'Slash'), hold to charge
     -Green:Use your movement keys to move the shield to block attacks
     -Orange:don't stop moving as once you start you can't stop
     -Cyan:when moving everything moves slower when not moving everything is really fast, oh and inverted controls
